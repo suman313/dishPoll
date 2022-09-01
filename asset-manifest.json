@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/dishPoll/static/js/main.04afca8b.js",
+    "main.js": "/dishPoll/static/js/main.0b6e3381.js",
     "index.html": "/dishPoll/index.html",
-    "main.04afca8b.js.map": "/dishPoll/static/js/main.04afca8b.js.map"
+    "main.0b6e3381.js.map": "/dishPoll/static/js/main.0b6e3381.js.map"
   },
   "entrypoints": [
-    "static/js/main.04afca8b.js"
+    "static/js/main.0b6e3381.js"
   ]
 }
